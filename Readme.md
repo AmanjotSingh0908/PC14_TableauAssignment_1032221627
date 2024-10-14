@@ -1,3 +1,9 @@
+![crimes_inc](https://github.com/user-attachments/assets/6ca654b1-20b6-40ae-ba9d-e77d69832725)
+![Crime_Dashboard](https://github.com/user-attachments/assets/b99a90ac-1cee-451d-893c-8242d999752f)
+![cheating_inc](https://github.com/user-attachments/assets/b71f10f4-19e4-4284-a1e8-ab5579aba004)
+![burgelaryReport](https://github.com/user-attachments/assets/9626cfef-90c2-4edd-804b-29832272121a)
+
+
 From the two visualizations, we can draw the following inferences:
 
 ### 1. **Crime Map (crimes_inc):**
